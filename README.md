@@ -1,6 +1,6 @@
 # curso-PDI
 
-Curso de Processamento Digital de Imagens.
+Notebooks Jupyter utilizados no curso de Processamento Digital de Imagens (PDI). Este repositório possui 37 notebooks explicando diversos conceitos sobre PDI. O detalhamento das explicações contidas em cada notebook varia bastante. Planejo melhorar tais explicações e adicionar as notas de aula associadas a cada notebook.
 
 ### Dependências (versão utilizada)
 * numpy (1.15.1)
